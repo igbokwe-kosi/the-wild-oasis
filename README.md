@@ -24,7 +24,7 @@ This project is a simple management system for a cabin/hotel. It is a console ap
 
 1. Clone the repository
 2. Run `npm install` to install the dependencies
-3. Run `npm start` to start the application
+3. Run `npm run dev` to start the application
 
 ### Usage
 
